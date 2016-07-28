@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<student
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="C:/Users/Sridhar/Documents/student.xsd">
+	<name>
+		<firstname>Sridhar</firstname>
+		<middlename>Ramakrishnan</middlename>
+		<lastname>Iyer</lastname>
+	</name>
+	<dob>
+		<date>01</date>
+		<month>JAN</month>
+		<year>2000</year>
+	</dob>
+	<electives>
+		<subject>Physics</subject>
+		<subject>Mathematics</subject>
+		<subject>Computers</subject>		
+	</electives>
+</student>
